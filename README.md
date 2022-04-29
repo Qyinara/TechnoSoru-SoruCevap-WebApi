@@ -12,8 +12,6 @@ Erol Aydemir 20211129074 İnternet Programcılığı 2 Vize Projesi (Soru-Cevap 
 ## Swagger Tablosu
 [![image](https://www.linkpicture.com/q/swagger.png)](https://www.linkpicture.com/view.php?img=LPic626c57e7217d71732636835)
 
-## Amaç
-Projede amaç asp.net ve angular ile araç kiralama sitesi yapmaktır.
 
 
 ## İnstallation
